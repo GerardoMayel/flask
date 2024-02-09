@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+
+# Archivos de configuración
+instance/
+
+# Archivos de registro
+*.log
+
+# Archivos de caché
+__pycache__/
+.cache/
+
+# Archivos generados por IDEs
+.vscode/
+.idea/
+
+# Archivos de dependencias
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de respaldo
+*~
+*.bak
